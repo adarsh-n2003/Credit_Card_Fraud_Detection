@@ -48,7 +48,7 @@ pip install pandas matplotlib seaborn scikit-learn
 
 ### **Contributor**
 
-- [Adarsh Nashine](https://www.linkedin.com/in/adarsh-nashine/)
+- [Adarsh Nashine](https://github.com/adarsh-n2003)
 
 ### **Acknowledgments**
 
